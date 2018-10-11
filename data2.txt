@@ -1,0 +1,31 @@
+Rank	State	Total	Urban	Rural
+1	Tripura	197	172	203
+2	Sikkim	181	168	184
+3	Kerala	125	126	125
+4	Himachal Pradesh	106	23	117
+5	Assam	96	58	150
+6	Arunachal Pradesh	89	52	93
+7	Nagaland	85	141	69
+8	Jharkhand	77	94	73
+9	Uttar Pradesh	74	67	76
+10	Jammu and Kashmir	72	36	83
+11	Rajasthan	71	43	77
+12	Uttarakhand	70	32	81
+13	Goa	61	101	55
+14	Punjab	60	62	59
+14	Bihar	60	74	59
+16	Manipur	57	70	49
+17	Odisha	50	47	51
+–	India	50	49	51
+18	West Bengal	49	56	47
+19	Meghalaya	48	134	28
+20	Haryana	47	57	43
+21	Madhya Pradesh	43	40	44
+22	Tamil Nadu	42	36	45
+23	Andhra Pradesh	39	44	38
+24	Mizoram	30	49	15
+25	Telangana	28	62	13
+26	Maharashtra	21	23	20
+27	Chhattisgarh	19	68	11
+28	Karnataka	15	19	13
+29	Gujarat	9	7	10
